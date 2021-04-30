@@ -1,4 +1,0 @@
-<!DOCTYPE root [<!ENTITY foo SYSTEM "expect://id">]>
-<methodCall>
-  <methodName>&foo;</methodName>
-</methodCall>
